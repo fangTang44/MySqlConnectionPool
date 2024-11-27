@@ -3,7 +3,7 @@
 
 int main() {
   MysqlConn* conn = new MysqlConn();
-  conn->connect("root", "LHw18691171371..", "mysql", "127.0.0.1");
+  conn->connect("root", "", "mysql", "127.0.0.1");
   conn->query("select * from plugin;");
   conn->next();
   std::cout << conn->value(0) << std::endl;
