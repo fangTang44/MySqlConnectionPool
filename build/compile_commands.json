@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/fangtang/workSpace/MySqlConnectionPool/build",
+  "command": "/usr/bin/g++  -I/home/fangtang/workSpace/MySqlConnectionPool/include -g -o CMakeFiles/MySQLConnectionPool.dir/test/test.cc.o -c /home/fangtang/workSpace/MySqlConnectionPool/test/test.cc",
+  "file": "/home/fangtang/workSpace/MySqlConnectionPool/test/test.cc",
+  "output": "CMakeFiles/MySQLConnectionPool.dir/test/test.cc.o"
+},
+{
+  "directory": "/home/fangtang/workSpace/MySqlConnectionPool/build",
+  "command": "/usr/bin/g++  -I/home/fangtang/workSpace/MySqlConnectionPool/include -g -o CMakeFiles/MySQLConnectionPool.dir/src/MysqlConn.cc.o -c /home/fangtang/workSpace/MySqlConnectionPool/src/MysqlConn.cc",
+  "file": "/home/fangtang/workSpace/MySqlConnectionPool/src/MysqlConn.cc",
+  "output": "CMakeFiles/MySQLConnectionPool.dir/src/MysqlConn.cc.o"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/fangtang/workSpace/dazuoye/build",
+  "command": "/usr/bin/g++  -I/home/fangtang/workSpace/dazuoye/server/include -I/home/fangtang/workSpace/dazuoye/client/include -g -o CMakeFiles/server.dir/server/src/ser.cc.o -c /home/fangtang/workSpace/dazuoye/server/src/ser.cc",
+  "file": "/home/fangtang/workSpace/dazuoye/server/src/ser.cc",
+  "output": "CMakeFiles/server.dir/server/src/ser.cc.o"
+},
+{
+  "directory": "/home/fangtang/workSpace/dazuoye/build",
+  "command": "/usr/bin/g++  -I/home/fangtang/workSpace/dazuoye/server/include -I/home/fangtang/workSpace/dazuoye/client/include -g -o CMakeFiles/client.dir/client/src/cli.cc.o -c /home/fangtang/workSpace/dazuoye/client/src/cli.cc",
+  "file": "/home/fangtang/workSpace/dazuoye/client/src/cli.cc",
+  "output": "CMakeFiles/client.dir/client/src/cli.cc.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/MySQLConnectionPool.dir/test/test.cc.o CMakeFiles/MySQLConnectionPool.dir/src/MysqlConn.cc.o -o /home/fangtang/workSpace/MySqlConnectionPool/bin/MySQLConnectionPool  -lmysqlclient 

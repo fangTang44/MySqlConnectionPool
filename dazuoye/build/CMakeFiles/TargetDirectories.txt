@@ -1,0 +1,4 @@
+/home/fangtang/workSpace/dazuoye/build/CMakeFiles/server.dir
+/home/fangtang/workSpace/dazuoye/build/CMakeFiles/client.dir
+/home/fangtang/workSpace/dazuoye/build/CMakeFiles/edit_cache.dir
+/home/fangtang/workSpace/dazuoye/build/CMakeFiles/rebuild_cache.dir

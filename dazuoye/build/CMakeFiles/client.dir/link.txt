@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/client.dir/client/src/cli.cc.o -o /home/fangtang/workSpace/dazuoye/bin/client 
